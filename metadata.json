@@ -1,0 +1,6 @@
+{
+  "name": "VidSnap",
+  "description": "Download videos, extract audio, transcribe speech, and translate content from your favorite platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
